@@ -32,9 +32,7 @@ Slim 3.0^ requires php5.6+ with PSR4-autoloader
 
 
 
-#  System Workflow
 
-![Workflow](https://datamgt.nci.org.au/sysimages/workflow.png)
 
 
 #  Database Configuration
